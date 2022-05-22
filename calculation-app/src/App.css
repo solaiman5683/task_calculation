@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
+
+.App-header {
+	height: 70px;
+	background: #c10708;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+	font: normal normal normal 18px/16px Varela Round;
+	letter-spacing: 0.54px;
+	color: #ffffff;
+	text-transform: uppercase;
+	opacity: 1;
+}
